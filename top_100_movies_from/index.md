@@ -2,7 +2,7 @@
 
 ### Lists
 
-{% for file in site.static_files}
+{% for file in site.static_files %}
   - {{ file.path }}
   
 {% endfor %}
