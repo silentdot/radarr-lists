@@ -6,10 +6,11 @@ title: Radarr Movie Lists's
 
 This was a weekend project, i might add other providers later. 
 
+## Rottentomatoes
+- [Top 100 Movies From Year](https://silentdot.github.io/rottentomatoes_radarr_lists/top_100_movies_from/)
+
 ### In the works
 - Rottentomatoes Top Movie Lists for each genre
 
 Please feel free to open up a issue on [Github](https://github.com/silentdot/rottentomatoes_radarr_lists/issues/new) if you have feedback, ideas or suggestions.
 
-## Rottentomatoes
-- [Top 100 Movies From Year](https://silentdot.github.io/rottentomatoes_radarr_lists/top_100_movies_from/)
