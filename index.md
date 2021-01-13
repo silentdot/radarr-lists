@@ -12,5 +12,5 @@ This was a weekend project, i might add other providers later.
 ### In the works
 - Rottentomatoes Top Movie Lists for each genre
 
-Please feel free to open up a issue on [Github](https://github.com/silentdot/radarr-lists/issues/new) if you have feedback, ideas or suggestions.
+Please feel free to open up an issue on [Github](https://github.com/silentdot/radarr-lists/issues/new) if you have feedback, ideas or suggestions.
 
