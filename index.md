@@ -1,6 +1,7 @@
 ---
-title: "Radarr Movie Lists's"
+title: Radarr Movie Lists's
 ---
+
 ## Radarr Movie Lists
 
 This was a weekend project, i might add other providers later. 
