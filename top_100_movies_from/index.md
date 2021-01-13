@@ -3,6 +3,6 @@
 ### Lists
 
 {% for file in site.static_files %}
-  - {{ file.path }}
-  
+  - [{{file.basename}}](https://silentdot.github.io/rottentomatoes_radarr_lists/top_100_movies_from/{{file.name}})
+
 {% endfor %}
