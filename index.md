@@ -4,4 +4,4 @@ This was a weekend project, i might add other providers later.
 
 ### Rottentomatoes
 
-- [Top 100 Movies From Year](https://github.com/silentdot/rottentomatoes_radarr_lists/top_100_movies_from/)
+- [Top 100 Movies From Year](/rottentomatoes_radarr_lists/top_100_movies_from/)
