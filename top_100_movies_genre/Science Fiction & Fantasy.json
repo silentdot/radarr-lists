@@ -1,0 +1,402 @@
+[
+    {
+        "imdb_id": "tt1825683",
+        "title": "Black Panther "
+    },
+    {
+        "imdb_id": "tt4154796",
+        "title": "Avengers: Endgame "
+    },
+    {
+        "imdb_id": "tt1979376",
+        "title": "Toy Story 4 "
+    },
+    {
+        "imdb_id": "tt0032138",
+        "title": "The Wizard of Oz "
+    },
+    {
+        "imdb_id": "tt1392190",
+        "title": "Mad Max: Fury Road "
+    },
+    {
+        "imdb_id": "tt4633694",
+        "title": "Spider-Man: Into the Spider-Verse "
+    },
+    {
+        "imdb_id": "tt0451279",
+        "title": "Wonder Woman "
+    },
+    {
+        "imdb_id": "tt3501632",
+        "title": "Thor: Ragnarok "
+    },
+    {
+        "imdb_id": "tt5580390",
+        "title": "The Shape of Water "
+    },
+    {
+        "imdb_id": "tt2543164",
+        "title": "Arrival "
+    },
+    {
+        "imdb_id": "tt0029583",
+        "title": "Snow White and the Seven Dwarfs "
+    },
+    {
+        "imdb_id": "tt3315342",
+        "title": "Logan "
+    },
+    {
+        "imdb_id": "tt0083866",
+        "title": "E.T. The Extra-Terrestrial "
+    },
+    {
+        "imdb_id": "tt6320628",
+        "title": "Spider-Man: Far From Home "
+    },
+    {
+        "imdb_id": "tt2527336",
+        "title": "Star Wars: The Last Jedi "
+    },
+    {
+        "imdb_id": "tt0013442",
+        "title": "Nosferatu, a Symphony of Horror  "
+    },
+    {
+        "imdb_id": "tt1051906",
+        "title": "The Invisible Man "
+    },
+    {
+        "imdb_id": "tt0078748",
+        "title": "Alien "
+    },
+    {
+        "imdb_id": "tt2488496",
+        "title": "Star Wars: Episode VII - The Force Awakens "
+    },
+    {
+        "imdb_id": "tt1454468",
+        "title": "Gravity "
+    },
+    {
+        "imdb_id": "tt3450958",
+        "title": "War for the Planet of the Apes "
+    },
+    {
+        "imdb_id": "tt2250912",
+        "title": "Spider-Man: Homecoming "
+    },
+    {
+        "imdb_id": "tt0017136",
+        "title": "Metropolis "
+    },
+    {
+        "imdb_id": "tt0448115",
+        "title": "Shazam! "
+    },
+    {
+        "imdb_id": "tt0026138",
+        "title": "The Bride of Frankenstein "
+    },
+    {
+        "imdb_id": "tt0468569",
+        "title": "The Dark Knight "
+    },
+    {
+        "imdb_id": "tt8333746",
+        "title": "Pinocchio "
+    },
+    {
+        "imdb_id": "tt0057012",
+        "title": "Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb "
+    },
+    {
+        "imdb_id": "tt1856101",
+        "title": "Blade Runner 2049 "
+    },
+    {
+        "imdb_id": "tt3498820",
+        "title": "Captain America: Civil War "
+    },
+    {
+        "imdb_id": "tt11265438",
+        "title": "Harry Potter and the Deathly Hallows - Part 2 "
+    },
+    {
+        "imdb_id": "tt1976009",
+        "title": "Frankenstein "
+    },
+    {
+        "imdb_id": "tt7984734",
+        "title": "The Lighthouse "
+    },
+    {
+        "imdb_id": "tt0038650",
+        "title": "It's a Wonderful Life "
+    },
+    {
+        "imdb_id": "tt5688932",
+        "title": "Sorry to Bother You "
+    },
+    {
+        "imdb_id": "tt0060028",
+        "title": "Star Trek "
+    },
+    {
+        "imdb_id": "tt5095030",
+        "title": "Ant-Man and the Wasp "
+    },
+    {
+        "imdb_id": "tt4154756",
+        "title": "Avengers: Infinity War "
+    },
+    {
+        "imdb_id": "tt3659388",
+        "title": "The Martian "
+    },
+    {
+        "imdb_id": "tt0077745",
+        "title": "Invasion of the Body Snatchers "
+    },
+    {
+        "imdb_id": "tt0076759",
+        "title": "Star Wars: Episode IV - A New Hope "
+    },
+    {
+        "imdb_id": "tt4302938",
+        "title": "Kubo and the Two Strings "
+    },
+    {
+        "imdb_id": "tt0892769",
+        "title": "How to Train Your Dragon "
+    },
+    {
+        "imdb_id": "tt1798709",
+        "title": "Her "
+    },
+    {
+        "imdb_id": "tt0910970",
+        "title": "WALL-E "
+    },
+    {
+        "imdb_id": "tt0848228",
+        "title": "Marvel's The Avengers "
+    },
+    {
+        "imdb_id": "tt0088247",
+        "title": "The Terminator "
+    },
+    {
+        "imdb_id": "tt0371746",
+        "title": "Iron Man "
+    },
+    {
+        "imdb_id": "tt3861390",
+        "title": "Dumbo "
+    },
+    {
+        "imdb_id": "tt0058331",
+        "title": "Mary Poppins "
+    },
+    {
+        "imdb_id": "tt0068361",
+        "title": "The Discreet Charm Of The Bourgeoisie  "
+    },
+    {
+        "imdb_id": "tt2015381",
+        "title": "Guardians of the Galaxy "
+    },
+    {
+        "imdb_id": "tt2771200",
+        "title": "Beauty and The Beast  "
+    },
+    {
+        "imdb_id": "tt1631867",
+        "title": "Live Die Repeat: Edge of Tomorrow "
+    },
+    {
+        "imdb_id": "tt0062622",
+        "title": "2001: A Space Odyssey "
+    },
+    {
+        "imdb_id": "tt6156584",
+        "title": "Snowpiercer "
+    },
+    {
+        "imdb_id": "tt1211837",
+        "title": "Doctor Strange "
+    },
+    {
+        "imdb_id": "tt0110527",
+        "title": "Miracle on 34th Street "
+    },
+    {
+        "imdb_id": "tt0090605",
+        "title": "Aliens "
+    },
+    {
+        "imdb_id": "tt0056801",
+        "title": "8 1/2 "
+    },
+    {
+        "imdb_id": "tt0970416",
+        "title": "The Day the Earth Stood Still "
+    },
+    {
+        "imdb_id": "tt0080684",
+        "title": "Star Wars: Episode V - The Empire Strikes Back "
+    },
+    {
+        "imdb_id": "tt1877832",
+        "title": "X-Men: Days of Future Past "
+    },
+    {
+        "imdb_id": "tt1051906",
+        "title": "The Invisible Man "
+    },
+    {
+        "imdb_id": "tt7146812",
+        "title": "Onward "
+    },
+    {
+        "imdb_id": "tt0457430",
+        "title": "Pan's Labyrinth "
+    },
+    {
+        "imdb_id": "tt2771200",
+        "title": "Beauty and the Beast "
+    },
+    {
+        "imdb_id": "tt0093779",
+        "title": "The Princess Bride "
+    },
+    {
+        "imdb_id": "tt1276104",
+        "title": "Looper "
+    },
+    {
+        "imdb_id": "tt0079944",
+        "title": "Stalker "
+    },
+    {
+        "imdb_id": "tt3896198",
+        "title": "Guardians of the Galaxy Vol. 2 "
+    },
+    {
+        "imdb_id": "tt2103281",
+        "title": "Dawn Of The Planet Of The Apes "
+    },
+    {
+        "imdb_id": "tt2325088",
+        "title": "Ghostbusters (1984 Original) "
+    },
+    {
+        "imdb_id": "tt0107688",
+        "title": "The Nightmare Before Christmas "
+    },
+    {
+        "imdb_id": "tt0470752",
+        "title": "Ex Machina "
+    },
+    {
+        "imdb_id": "tt0032455",
+        "title": "Fantasia "
+    },
+    {
+        "imdb_id": "tt0198781",
+        "title": "Monsters, Inc. "
+    },
+    {
+        "imdb_id": "tt4154664",
+        "title": "Captain Marvel "
+    },
+    {
+        "imdb_id": "tt0107048",
+        "title": "Groundhog Day "
+    },
+    {
+        "imdb_id": "tt0167261",
+        "title": "The Lord of the Rings: The Two Towers "
+    },
+    {
+        "imdb_id": "tt0094737",
+        "title": "Big "
+    },
+    {
+        "imdb_id": "tt6803046",
+        "title": "The Vast of Night "
+    },
+    {
+        "imdb_id": "tt1179933",
+        "title": "10 Cloverfield Lane "
+    },
+    {
+        "imdb_id": "tt1843866",
+        "title": "Captain America: The Winter Soldier "
+    },
+    {
+        "imdb_id": "tt0129167",
+        "title": "The Iron Giant "
+    },
+    {
+        "imdb_id": "tt0088763",
+        "title": "Back to the Future "
+    },
+    {
+        "imdb_id": "tt1935156",
+        "title": "Jodorowsky's Dune "
+    },
+    {
+        "imdb_id": "tt1865505",
+        "title": "Song Of The Sea "
+    },
+    {
+        "imdb_id": "tt0093191",
+        "title": "Wings of Desire "
+    },
+    {
+        "imdb_id": "tt0245429",
+        "title": "Spirited Away "
+    },
+    {
+        "imdb_id": "tt0049223",
+        "title": "Forbidden Planet "
+    },
+    {
+        "imdb_id": "tt5501104",
+        "title": "Border  "
+    },
+    {
+        "imdb_id": "tt2798920",
+        "title": "Annihilation "
+    },
+    {
+        "imdb_id": "tt0831387",
+        "title": "Godzilla  "
+    },
+    {
+        "imdb_id": "tt0107290",
+        "title": "Jurassic Park "
+    },
+    {
+        "imdb_id": "tt0072431",
+        "title": "Young Frankenstein "
+    },
+    {
+        "imdb_id": "tt0083658",
+        "title": "Blade Runner "
+    },
+    {
+        "imdb_id": "tt1951264",
+        "title": "The Hunger Games: Catching Fire "
+    },
+    {
+        "imdb_id": "tt0069293",
+        "title": "Solaris "
+    },
+    {
+        "imdb_id": "tt0112431",
+        "title": "Babe "
+    }
+]
