@@ -8,6 +8,7 @@ This was a weekend project, i might add other providers later.
 
 ## Rottentomatoes
 - [Top 100 Movies From Year](https://silentdot.github.io/radarr-lists/top_100_movies_from/)
+- [Top 100 Movies From Genre](https://silentdot.github.io/radarr-lists/top_100_movies_genre/)
 
 ### In the works
 - Rottentomatoes Top Movie Lists for each genre
