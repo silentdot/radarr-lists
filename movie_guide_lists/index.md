@@ -4,7 +4,7 @@ title: Top 100 Movies from Genre
 
 ## Rotten Tomatoes Movie Guides
 
-These are some extracted lists from rottentomatoes movie guides. [Example.]("https://editorial.rottentomatoes.com/guide/all-a24-movies-ranked/")
+These are some extracted lists from rottentomatoes movie guides. [Example.](https://editorial.rottentomatoes.com/guide/all-a24-movies-ranked/)
 
 ### Lists
 
